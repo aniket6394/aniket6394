@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Aniket Raj Singh
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&center=true\&vCenter=true\&width=500\&lines=Full+Stack+Developer;Unity+2D+Game+Developer;Exploring+ML+and+Systems;Building+real-world+projects)
-
----
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Unity+2D+Game+Developer;Backend+Engineer;Always+Learning+and+Building)
 ## 🚀 About Me
 
 * 🎓 CSE @ IIITA
@@ -36,18 +32,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket6394\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket6394\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🔥 Current Focus
 
 * 🧠 Learning Machine Learning deeply
-* ⚙️ Backend systems (caching, queues, scalability)
+* ⚙️ Backend systems
 * 🎯 Building resume-level projects
 
 ---
@@ -58,10 +46,5 @@
 
 ---
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/aniket6394
-
----
 
 ⭐ *“Building, breaking, and improving every day.”*
