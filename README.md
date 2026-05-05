@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aniket Raj Singh
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Unity+2D+Game+Developer;Backend+Engineer;Always+Learning+and+Building)
+
 ## 🚀 About Me
 
 * 🎓 CSE @ IIITA
